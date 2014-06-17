@@ -1,0 +1,10 @@
+﻿body{
+	background: url(powerpoint.png) no-repeat;
+}
+.examples{
+	border: 2px solid red;
+	background: rgb(255, 255, 0, 0.8);
+	opacity: 0.4;
+}
+
+
